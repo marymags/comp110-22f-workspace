@@ -1,0 +1,3 @@
+"""A tracing challenge question."""
+
+i: int = 0
